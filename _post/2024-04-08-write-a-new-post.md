@@ -1,10 +1,8 @@
 ---
-title: 첫번째 포스팅
-author: univerxse2
-date: 2024-04-08 14:10:00 +0900
+title: 첫번째 포스팅 테스트
+date: 2024-04-08 14:10:00 +09:00
 categories: [개발기록, JAVA]
-tags: [java]
-render_with_liquid: false
+tags: [java, Oracle]
 ---
 
 첫번째 포스팅 테스트 입니다.
